@@ -10,3 +10,14 @@ Food Placement: Random generation of food items on the screen, using simple rand
 Collision Detection: Check for collisions with the borders or the snake's body by comparing coordinates.
 Screen Drawing: The game's graphics are drawn using video interrupts (e.g., INT 10h) or directly accessing the video memory.
 This basic game in x8086 assembly focuses on logic control, efficient use of registers, and memory management for smooth gameplay.
+## OUTPUT
+![image](https://github.com/user-attachments/assets/0800675d-9690-4d6f-b581-3043bbd3a0fb)
+
+![image](https://github.com/user-attachments/assets/dc90bb82-8736-4cbd-865f-83c0f5074e7d)
+
+![image](https://github.com/user-attachments/assets/29865a60-162e-4376-b28b-be09233b24b6)
+
+![image](https://github.com/user-attachments/assets/46935c9a-5c5f-4f26-9ac8-fcc4c5cdff98)
+
+
+
